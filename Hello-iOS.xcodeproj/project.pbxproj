@@ -96,7 +96,7 @@
 				TargetAttributes = {
 					3DDBAD701E8DAE11009EC297 = {
 						CreatedOnToolsVersion = 8.3;
-						DevelopmentTeam = 5U76F3PM75;
+						DevelopmentTeam = 46CDY537Z3;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -263,7 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5U76F3PM75;
+				DEVELOPMENT_TEAM = 46CDY537Z3;
 				INFOPLIST_FILE = "Hello-iOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "washington.edu.info.yangw97.Hello-iOS";
@@ -276,7 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 5U76F3PM75;
+				DEVELOPMENT_TEAM = 46CDY537Z3;
 				INFOPLIST_FILE = "Hello-iOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "washington.edu.info.yangw97.Hello-iOS";
